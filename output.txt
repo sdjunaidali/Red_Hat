@@ -1,0 +1,255 @@
+
+		PLANET NAME ->	Planet Fedora
+		DATE ->Tue, 01 Dec 2015 11:41:52 GMT
+---------------------------------------------------------------
+
+TITLE ->	Alexander Todorov: Commit a file with the GitHub API and Python
+POSTED ON : ->	2015-12-01T10:44:00+00:00
+LINK ->	http://atodorov.org/blog/2015/12/01/commit-a-file-with-the-github-api-and-python/
+
+---------------------------------------------------------------
+TITLE ->	Perl SIG: podlators-4.00 in Rawhide
+POSTED ON : ->	2015-12-01T09:08:39+00:00
+LINK ->	http://blog-ciah.rhcloud.com/#i3c32303135313230313039303833392e47413231363540646863702d302d3134362e6272712e7265646861742e636f6d3e
+
+---------------------------------------------------------------
+TITLE ->	Luya Tshimbalanga: Trying Talky.io
+POSTED ON : ->	2015-12-01T05:23:59+00:00
+LINK ->	http://feedproxy.google.com/~r/TheFinalZoneProject/~3/rDsfLIi66UE/trying-talkyio.html
+
+---------------------------------------------------------------
+TITLE ->	Carlos Morel-Riquelme: Virtualbox on Fedora
+POSTED ON : ->	2015-12-01T02:49:52+00:00
+LINK ->	http://asleqia.tumblr.com/post/134306064190
+
+---------------------------------------------------------------
+TITLE ->	Giannis Konstantinidis: How Is Fossaegean Doing?
+POSTED ON : ->	2015-12-01T02:41:00+00:00
+LINK ->	http://konstantinidis.cc/2015/12/01/how-is-fossaegean-doing/
+
+---------------------------------------------------------------
+TITLE ->	Carlos Morel-Riquelme: Virtualbox en Fedora 23
+POSTED ON : ->	2015-12-01T02:21:32+00:00
+LINK ->	http://asleqia.tumblr.com/post/134304446265
+
+---------------------------------------------------------------
+TITLE ->	Fedora Infrastructure Status: All systems go
+POSTED ON : ->	2015-12-01T01:20:14+00:00
+LINK ->	http://status.fedoraproject.org/
+
+---------------------------------------------------------------
+TITLE ->	Laura Abbott: A look at the kernel bisection scripts
+POSTED ON : ->	2015-12-01T00:00:00+00:00
+LINK ->	http://www.labbott.name/blog/2015/11/30/a-look-at-the-kernel-bisection-scripts
+
+---------------------------------------------------------------
+TITLE ->	Fedora Infrastructure Status: There are scheduled downtimes in progress
+POSTED ON : ->	2015-11-30T23:59:01+00:00
+LINK ->	http://status.fedoraproject.org/
+
+---------------------------------------------------------------
+TITLE ->	Josef Strzibny: DNS for your Vagrant needs: with Landrush, libvirt and dnsmasq
+POSTED ON : ->	2015-11-30T22:57:24+00:00
+LINK ->	http://nts.strzibny.name/dns-for-your-vagrant-needs-with-landrush-libvirt-and-dnsmasq/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Community Blog: FESCo Elections: Interview with Adam Miller (maxamillion)
+POSTED ON : ->	2015-11-30T22:17:48+00:00
+LINK ->	https://communityblog.fedoraproject.org/fesco-elections-interview-adam-miller-maxamillion/
+
+---------------------------------------------------------------
+TITLE ->	Jonathan Dieter: Freeswitch vs. Asterisk?
+POSTED ON : ->	2015-11-30T20:08:02+00:00
+LINK ->	https://cedarandthistle.wordpress.com/2015/11/30/freeswitch-vs-asterisk/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Community Blog: FAmSCo Elections: Interview with Ben Williams (Southern_Gentlem / kk4ewt)
+POSTED ON : ->	2015-11-30T17:32:47+00:00
+LINK ->	https://communityblog.fedoraproject.org/famsco-elections-interview-ben-williams/
+
+---------------------------------------------------------------
+TITLE ->	Carlos Morel-Riquelme: Install SimpleScreenRecorder in Fedora
+POSTED ON : ->	2015-11-30T16:23:52+00:00
+LINK ->	http://asleqia.tumblr.com/post/134272313570
+
+---------------------------------------------------------------
+TITLE ->	Carlos Morel-Riquelme: Instala Simplescreenrecorder en Fedora
+POSTED ON : ->	2015-11-30T16:20:05+00:00
+LINK ->	http://asleqia.tumblr.com/post/134272143390
+
+---------------------------------------------------------------
+TITLE ->	Josh Bressers: Where is the physical trust boundary?
+POSTED ON : ->	2015-11-30T14:18:10+00:00
+LINK ->	http://sobersecurity.blogspot.com/2015/11/where-is-physical-trust-boundary.html
+
+---------------------------------------------------------------
+TITLE ->	Ben Cotton: I support Software Freedom Conservancy
+POSTED ON : ->	2015-11-30T12:17:40+00:00
+LINK ->	https://funnelfiasco.com/blog/?p=1888
+
+---------------------------------------------------------------
+TITLE ->	Vojtech Trefny: Blivet-gui 1.0 in Fedora 23
+POSTED ON : ->	2015-11-30T10:00:01+00:00
+LINK ->	http://blog.vojtechtrefny.cz/blivet-gui-10-fedora-23
+
+---------------------------------------------------------------
+TITLE ->	Fedora Magazine: Creating a laser light show with Fedora
+POSTED ON : ->	2015-11-30T03:00:12+00:00
+LINK ->	https://fedoramagazine.org/creating-laser-light-show-with-fedora/
+
+---------------------------------------------------------------
+TITLE ->	Justin W. Flory: Gotta Badge ‘Em All: Telegraphist
+POSTED ON : ->	2015-11-30T03:00:00+00:00
+LINK ->	http://blog.justinwflory.com/2015/11/gotta-badge-em-all-telegraphist/
+
+---------------------------------------------------------------
+TITLE ->	Emmanuel Seyman: Support Software Freedom Conservancy
+POSTED ON : ->	2015-11-29T20:42:46+00:00
+LINK ->	http://blog.fedora-fr.org/eseyman/post/Support-Software-Freedom-Conservancy
+
+---------------------------------------------------------------
+TITLE ->	Matthew Garrett: What is hacker culture?
+POSTED ON : ->	2015-11-29T18:43:02+00:00
+LINK ->	http://mjg59.dreamwidth.org/38746.html
+
+---------------------------------------------------------------
+TITLE ->	Mark J. Wielaard: Software Freedom Conservancy
+POSTED ON : ->	2015-11-29T16:05:21+00:00
+LINK ->	https://gnu.wildebeest.org/blog/mjw/2015/11/29/software-freedom-conservancy/
+
+---------------------------------------------------------------
+TITLE ->	Alexander Todorov: Inspecting Method Arguments in Python
+POSTED ON : ->	2015-11-29T14:04:00+00:00
+LINK ->	http://atodorov.org/blog/2015/11/29/inspecting-method-arguments-in-python/
+
+---------------------------------------------------------------
+TITLE ->	Helio Chissini de Castro: Qt testing packages for Fedora and Epel on copr
+POSTED ON : ->	2015-11-29T13:58:43+00:00
+LINK ->	http://www.heliocastro.info/?p=227
+
+---------------------------------------------------------------
+TITLE ->	Luc de Louw: Setting up IPA with a specific CA cert subject
+POSTED ON : ->	2015-11-29T10:35:02+00:00
+LINK ->	http://blog.delouw.ch/2015/11/29/setting-up-ipa-with-a-specific-ca-cert-subject/
+
+---------------------------------------------------------------
+TITLE ->	Remi Collet: QElectroTech version 0.5
+POSTED ON : ->	2015-11-29T09:17:00+00:00
+LINK ->	http://blog.remirepo.net/post/2015/11/29/QElectroTech-version-0.5-en
+
+---------------------------------------------------------------
+TITLE ->	Daniel Pocock: Disabling Dynamic Currency Conversion (DCC) in Airbnb
+POSTED ON : ->	2015-11-28T17:08:55+00:00
+LINK ->	http://danielpocock.com/disabling-dcc-on-airbnb
+
+---------------------------------------------------------------
+TITLE ->	Major Hayden: Custom keyboard shortcuts for Evolution in GNOME
+POSTED ON : ->	2015-11-28T05:33:29+00:00
+LINK ->	https://major.io/2015/11/27/custom-keyboard-shortcuts-for-evolution-in-gnome/
+
+---------------------------------------------------------------
+TITLE ->	Debarshi Ray: The goats have strayed into GNOME
+POSTED ON : ->	2015-11-27T18:28:32+00:00
+LINK ->	https://debarshiray.wordpress.com/2015/11/27/the-goats-have-strayed-into-gnome/
+
+---------------------------------------------------------------
+TITLE ->	Niels de Vos: Hurry up, only a few days left to do the 2015 Gluster Community Survey
+POSTED ON : ->	2015-11-27T18:27:42+00:00
+LINK ->	http://blog.nixpanic.net/2015/11/hurry-up-only-few-days-left-to-do-2015.html
+
+---------------------------------------------------------------
+TITLE ->	Remi Collet: Forum PHP in Paris 2015
+POSTED ON : ->	2015-11-27T13:15:00+00:00
+LINK ->	http://blog.remirepo.net/post/2015/11/27/Forum-PHP-in-Paris-2015
+
+---------------------------------------------------------------
+TITLE ->	Fabian Deutsch: All namespaces currently used
+POSTED ON : ->	2015-11-27T13:11:54+00:00
+LINK ->	http://dummdida.tumblr.com/post/134055778555
+
+---------------------------------------------------------------
+TITLE ->	Christian Jantz: Configure Fedora 23 firewalld to allow nfs (Vagrant)
+POSTED ON : ->	2015-11-27T10:36:01+00:00
+LINK ->	http://jantz.cc/configure-fedora-23-firewalld-to-allow-nfs-vagrant/802/
+
+---------------------------------------------------------------
+TITLE ->	Chris Brown: More on Satellite 6.1 provisioning
+POSTED ON : ->	2015-11-27T10:10:26+00:00
+LINK ->	https://chruz.wordpress.com/2015/11/27/more-on-satellite-6-1-provisioning/
+
+---------------------------------------------------------------
+TITLE ->	Remi Collet: PHP version 5.6.16
+POSTED ON : ->	2015-11-27T06:11:00+00:00
+LINK ->	http://blog.remirepo.net/post/2015/11/27/PHP-version-5.6.16-en
+
+---------------------------------------------------------------
+TITLE ->	Fedora Community Blog: FESCo Elections: Interview with Germano Massullo (Caterpillar / germano)
+POSTED ON : ->	2015-11-27T03:00:22+00:00
+LINK ->	https://communityblog.fedoraproject.org/fesco-elections-interview-germano-massullo-caterpillar-germano/
+
+---------------------------------------------------------------
+TITLE ->	Adam Williamson: QA happenings, post-F23
+POSTED ON : ->	2015-11-27T02:02:52+00:00
+LINK ->	https://www.happyassassin.net/2015/11/26/qa-happenings-post-f23/
+
+---------------------------------------------------------------
+TITLE ->	Mel Chua: On the relative openness of text/document formats: .txt and .csv
+POSTED ON : ->	2015-11-26T23:49:07+00:00
+LINK ->	http://blog.melchua.com/2015/11/26/on-the-relative-openness-of-textdocument-formats-txt-and-csv/
+
+---------------------------------------------------------------
+TITLE ->	Alexander Todorov: 3 New Python Markdown extensions
+POSTED ON : ->	2015-11-26T20:24:00+00:00
+LINK ->	http://atodorov.org/blog/2015/11/26/3-new-python-markdown-extensions/
+
+---------------------------------------------------------------
+TITLE ->	Mike FABIAN
+POSTED ON : ->	2015-11-26T16:20:06+00:00
+LINK ->	http://mikefabian.blogspot.com/2015/11/globalization-fedora-activity-day-2015.html
+
+---------------------------------------------------------------
+TITLE ->	Fedora Community Blog: Elections: Nominations Filed, Campaign Period, Candidate Interviews Coming Soon
+POSTED ON : ->	2015-11-26T14:08:14+00:00
+LINK ->	https://communityblog.fedoraproject.org/elections-nominations-campaign-candidate-interviews/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Magazine: Five Things in Fedora This Week: HyperKitty, Elections, DevConf.cz, Wayland, and Python 3
+POSTED ON : ->	2015-11-26T02:20:42+00:00
+LINK ->	https://fedoramagazine.org/5tftw-2015-11-25/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Infrastructure Status: All systems go
+POSTED ON : ->	2015-11-26T01:13:01+00:00
+LINK ->	http://status.fedoraproject.org/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Magazine: Introducing the Fedora Cinnamon Spin
+POSTED ON : ->	2015-11-25T23:55:22+00:00
+LINK ->	https://fedoramagazine.org/fedora-23-cinnamon-spin/
+
+---------------------------------------------------------------
+TITLE ->	Jon Chiappetta: A Basic ECC Crypto C Library
+POSTED ON : ->	2015-11-25T22:58:20+00:00
+LINK ->	https://fossjon.wordpress.com/2015/11/25/a-basic-ecc-crypto-c-library/
+
+---------------------------------------------------------------
+TITLE ->	Jon Chiappetta: Curve25519 ECDH Using bn.c
+POSTED ON : ->	2015-11-25T22:31:59+00:00
+LINK ->	https://fossjon.wordpress.com/2015/11/25/curve25519-ecdh-using-bn-c/
+
+---------------------------------------------------------------
+TITLE ->	Fedora Infrastructure Status: There are scheduled downtimes in progress
+POSTED ON : ->	2015-11-25T21:00:46+00:00
+LINK ->	http://status.fedoraproject.org/
+
+---------------------------------------------------------------
+TITLE ->	Cole Robinson: virt-manager 1.3.0 released!
+POSTED ON : ->	2015-11-25T20:42:57+00:00
+LINK ->	http://blog.wikichoon.com/2015/11/virt-manager-130-released.html
+
+---------------------------------------------------------------
+TITLE ->	JoergSimon: Tenzin Chokden, speaks about the buddhism and open source relation
+POSTED ON : ->	2015-11-25T15:27:48+00:00
+LINK ->	http://kitall.blogspot.com/2015/11/tenzin-chokden-speaks-about-buddhism.html
+
+---------------------------------------------------------------
