@@ -1,0 +1,26 @@
+#How to run the program.
+
+Method 1:
+
+1)Copy red_hat.py anywhere and open than file using python 3.4 IDLE (Integrated DeveLopment Environment).
+
+2)Run the red_hat.py file using IDLE(Integrated DeveLopment Environment).
+
+3)The output will be there on IDLE shell.
+
+Note : This code is for Python version 3.4 so if you try to run it in other version it will give errors like parenthesis missing and other import modules errors etc.
+
+
+Method 2:
+
+1)Just copy the given folder "Red_Hat" in your Eclipse workspace.
+
+2)Open the project using Eclipse with PyDev(Python IDLE for Eclipse).
+
+3)Run the red_hat.py file to get an output.
+
+
+Method 3:
+
+1)Just find the red_hat.exe file in dist folder of Red_Hat and       execute that using command prompt(Cmd)
+
