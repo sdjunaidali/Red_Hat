@@ -148,7 +148,7 @@ def prepare_output(url):
               
 def blog1(url):
 
-    """Function to extract blogs of different users from the given websites"""
+    """Function to extract blogs of different users from the given website 1"""
 
     
     contents=[]
@@ -177,7 +177,7 @@ def blog1(url):
 
 def blog2(url):
 
-    """Function to extract blogs of different users from the given websites"""
+    """Function to extract blogs of different users from the given website 2"""
 
     
     contents=[]
@@ -206,7 +206,7 @@ def blog2(url):
 
 def blog3(url):
 
-    """Function to extract blogs of different users from the given websites"""
+    """Function to extract blogs of different users from the given website 3"""
 
     
     contents=[]
@@ -235,7 +235,7 @@ def blog3(url):
 
 def blog4(url):
 
-    """Function to extract blogs of different users from the given websites"""
+    """Function to extract blogs of different users from the given website 4"""
 
     
     contents=[]
