@@ -4,6 +4,7 @@ import feedparser
 import html5lib
 import requests
 import urllib
+import sys
 import re
 
 
@@ -318,7 +319,8 @@ if __name__ == '__main__':
         print("\n-------------------------------------")
         argument = int(input("\n\t(*)Select a Website From List For Website Extraction Process: "))
         if (argument>4):
-            print("\nWrong Choice!!!")
+            print("\nWrong Choice!!! Choice should be from menu.")
+            sys.exit()
         
         
         else:
